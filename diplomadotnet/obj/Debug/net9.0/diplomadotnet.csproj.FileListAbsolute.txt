@@ -1,0 +1,14 @@
+C:\Users\sudhir\diplomadotnet\bin\Debug\net9.0\diplomadotnet.exe
+C:\Users\sudhir\diplomadotnet\bin\Debug\net9.0\diplomadotnet.deps.json
+C:\Users\sudhir\diplomadotnet\bin\Debug\net9.0\diplomadotnet.runtimeconfig.json
+C:\Users\sudhir\diplomadotnet\bin\Debug\net9.0\diplomadotnet.dll
+C:\Users\sudhir\diplomadotnet\bin\Debug\net9.0\diplomadotnet.pdb
+C:\Users\sudhir\diplomadotnet\obj\Debug\net9.0\diplomadotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudhir\diplomadotnet\obj\Debug\net9.0\diplomadotnet.AssemblyInfoInputs.cache
+C:\Users\sudhir\diplomadotnet\obj\Debug\net9.0\diplomadotnet.AssemblyInfo.cs
+C:\Users\sudhir\diplomadotnet\obj\Debug\net9.0\diplomadotnet.csproj.CoreCompileInputs.cache
+C:\Users\sudhir\diplomadotnet\obj\Debug\net9.0\diplomadotnet.dll
+C:\Users\sudhir\diplomadotnet\obj\Debug\net9.0\refint\diplomadotnet.dll
+C:\Users\sudhir\diplomadotnet\obj\Debug\net9.0\diplomadotnet.pdb
+C:\Users\sudhir\diplomadotnet\obj\Debug\net9.0\diplomadotnet.genruntimeconfig.cache
+C:\Users\sudhir\diplomadotnet\obj\Debug\net9.0\ref\diplomadotnet.dll
